@@ -1,1 +1,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+.csv filter=lfs diff=lfs merge=lfs -text
+**.csv filter=lfs diff=lfs merge=lfs -text
+D:/MAESTRIA/Unir[[:space:]]Clases/TFM/DATA/z_Liga_LES_Jugadores.csv filter=lfs diff=lfs merge=lfs -text
